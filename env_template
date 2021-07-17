@@ -1,0 +1,5 @@
+SERVER_PORT = XXXX
+MONGO_DB_CONN = mongodb://localhost:27017/XECurrencyDB
+
+REF_CUR = USD
+COUNT_CUR = 30
