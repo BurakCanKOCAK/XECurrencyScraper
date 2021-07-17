@@ -1,0 +1,130 @@
+[
+    {
+        "currency": "USD",
+        "name": "US Dollar"
+    },
+    {
+        "currency": "EUR",
+        "name": "Euro"
+    },
+    {
+        "currency": "GBP",
+        "name": "British Pound"
+    },
+    {
+        "currency": "INR",
+        "name": "Indian Rupee"
+    },
+    {
+        "currency": "AUD",
+        "name": "Australian Dollar"
+    },
+    {
+        "currency": "CAD",
+        "name": "Canadian Dollar"
+    },
+    {
+        "currency": "SGD",
+        "name": "Singapore Dollar"
+    },
+    {
+        "currency": "CHF",
+        "name": "Swiss Franc"
+    },
+    {
+        "currency": "MYR",
+        "name": "Malaysian Ringgit"
+    },
+    {
+        "currency": "JPY",
+        "name": "Japanese Yen"
+    },
+    {
+        "currency": "CNY",
+        "name": "Chinese Yuan Renminbi"
+    },
+    {
+        "currency": "NZD",
+        "name": "New Zealand Dollar"
+    },
+    {
+        "currency": "THB",
+        "name": "Thai Baht"
+    },
+    {
+        "currency": "HUF",
+        "name": "Hungarian Forint"
+    },
+    {
+        "currency": "AED",
+        "name": "Emirati Dirham"
+    },
+    {
+        "currency": "HKD",
+        "name": "Hong Kong Dollar"
+    },
+    {
+        "currency": "MXN",
+        "name": "Mexican Peso"
+    },
+    {
+        "currency": "ZAR",
+        "name": "South African Rand"
+    },
+    {
+        "currency": "PHP",
+        "name": "Philippine Peso"
+    },
+    {
+        "currency": "SEK",
+        "name": "Swedish Krona"
+    },
+    {
+        "currency": "IDR",
+        "name": "Indonesian Rupiah"
+    },
+    {
+        "currency": "SAR",
+        "name": "Saudi Arabian Riyal"
+    },
+    {
+        "currency": "BRL",
+        "name": "Brazilian Real"
+    },
+    {
+        "currency": "TRY",
+        "name": "Turkish Lira"
+    },
+    {
+        "currency": "KES",
+        "name": "Kenyan Shilling"
+    },
+    {
+        "currency": "KRW",
+        "name": "South Korean Won"
+    },
+    {
+        "currency": "EGP",
+        "name": "Egyptian Pound"
+    },
+    {
+        "currency": "IQD",
+        "name": "Iraqi Dinar"
+    },
+    {
+        "currency": "NOK",
+        "name": "Norwegian Krone"
+    },
+    {
+        "currency": "KWD",
+        "name": "Kuwaiti Dinar"
+    },
+    {
+        "currency": "RUB",
+        "name": "Russian Ruble"
+    },
+    {
+        "currency": "DKK",
+        "name": "Danish Krone"
+    }
+]

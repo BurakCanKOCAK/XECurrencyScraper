@@ -1,0 +1,15 @@
+GET http://localhost:8485/api/all HTTP/1.1
+
+###
+
+GET http://localhost:8485/api/eur_usd HTTP/1.1
+
+###
+
+PATCH http://localhost:8485/api/ HTTP/1.1
+content-type: application/json
+
+{
+    "from_to": "XXX_YYY",
+    "value" : 19.99999
+}
